@@ -11,7 +11,7 @@
 11. [Bridal Rage](https://play.google.com/store/apps/details?id=com.Gongulus.BridalRage)
 12. [Color Snake](https://play.google.com/store/apps/details?id=com.Gongulus.ColorSnake)
 13. [Transform Run](https://app.sensortower.com/ios/US/gongulus/app/transform-run/1535031675/overview)
-14. [Dice Stacking](https://app.sensortower.com/ios/US/gongulus/app/dice-stacking/1531195306/overview)
+14. [Dice Stacking](https://apps.apple.com/US/app/id1531195306?l=en)
 15. [Ice Slide](https://apps.apple.com/US/app/id1525699033?l=en)
 16. [Roll The Balls](https://app.sensortower.com/ios/US/gongulus/app/roll-the-balls/1515832633/overview)
 17. [Juice Maker](https://app.sensortower.com/ios/US/gongulus/app/juice-maker/1483005505/overview)
