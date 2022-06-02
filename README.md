@@ -21,3 +21,4 @@
 21. [Paint Battle](https://app.sensortower.com/ios/US/gongulus/app/paint-battle/1552556287/overview)
 22. [Shoot Balls 3D](https://app.sensortower.com/ios/US/mossa-games-llc/app/shoot-balls-3d/1602387268/overview)
 23. [Bouncy Man](https://app.sensortower.com/ios/US/gongulus/app/bouncy-man/1546726300/overview)
+24. [Clothing Factory!](https://apps.apple.com/us/app/clothing-factory/id1610340535)
