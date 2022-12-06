@@ -2,7 +2,7 @@
 
 ### My favorites:
 - [Conductor Train Masters](https://play.google.com/store/apps/details?id=com.MossaGames.TrainMasters): Railway builder `simulator` `puzzle` `idle`
-- [Clothing Factory!](https://apps.apple.com/us/app/clothing-factory/id1610340535): Clothing production automatization `simulator` `asmr` `idle`
+- [Clothing Factory!](https://apps.apple.com/us/app/clothing-factory/id1610340535): Clothing production automatization `simulator` `asmr` `idle` [youtube](https://www.youtube.com/watch?v=oyLe4xURMJ4)
 - [Catch Them 3D](https://apps.apple.com/US/app/id1536928788?l=en): Superhero saving people `reaction` `puzzle` 
 - [Kart.io 3D](https://apps.apple.com/US/app/id1478779299?l=en): Cart racing with powerups `runner` `puzzle`
 - [Coffee Please](https://app.sensortower.com/ios/US/gongulus/app/coffee-please/1500258259/overview): Barista making coffee and latte art `simulator` `puzzle` 
