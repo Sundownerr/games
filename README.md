@@ -1,7 +1,7 @@
 ## Games in Play Store
 
 ### My favorites:
-- [Shadow Sword - Ragdoll Fight](https://play.google.com/store/apps/details?id=ninja.stickman.slice.battle): Ragdoll fighting with bosses and abilities `arcade` `arena` `asmr`
+- [Shadow Sword - Ragdoll Fight](https://play.google.com/store/apps/details?id=ninja.stickman.slice.battle): Ragdoll fighting with bosses and abilities `arcade` `arena` `asmr` [video](https://youtu.be/k6sNuMrU_-k)
 - [Conductor Train Masters](https://play.google.com/store/apps/details?id=com.MossaGames.TrainMasters): Railway builder `simulator` `puzzle` `idle` [video](https://www.youtube.com/watch?v=j0lfDrP7VyA)
 - [Clothing Factory!](https://apps.apple.com/us/app/clothing-factory/id1610340535): Clothing production automatization `simulator` `asmr` `idle` [video](https://www.youtube.com/watch?v=oyLe4xURMJ4)
 - [Catch Them 3D](https://apps.apple.com/US/app/id1536928788?l=en): Superhero saving people `reaction` `puzzle` [video](https://www.youtube.com/watch?v=_tJToGzlMjs)
